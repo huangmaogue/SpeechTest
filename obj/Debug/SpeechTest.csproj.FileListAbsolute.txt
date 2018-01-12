@@ -1,0 +1,11 @@
+Z:\SpeechTest\bin\Debug\SpeechTest.exe.config
+Z:\SpeechTest\bin\Debug\SpeechTest.exe
+Z:\SpeechTest\bin\Debug\SpeechTest.pdb
+Z:\SpeechTest\obj\Debug\Interop.SpeechLib.dll
+Z:\SpeechTest\obj\Debug\SpeechTest.csproj.ResolveComReference.cache
+Z:\SpeechTest\obj\Debug\SpeechTest.Form1.resources
+Z:\SpeechTest\obj\Debug\SpeechTest.Properties.Resources.resources
+Z:\SpeechTest\obj\Debug\SpeechTest.csproj.GenerateResource.Cache
+Z:\SpeechTest\obj\Debug\SpeechTest.exe
+Z:\SpeechTest\obj\Debug\SpeechTest.pdb
+Z:\SpeechTest\obj\Debug\SpeechTest.csprojResolveAssemblyReference.cache
